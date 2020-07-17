@@ -1,1 +1,1 @@
-web: java -jar build/libs/rate-1.0-SNAPSHOT.war
+web: java -jar target/myblog-1.0.0.war
