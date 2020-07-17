@@ -1,3 +1,1 @@
-web: java -jar target/myblog-1.0.wargi
-
-
+web : java $JAVA_OPTS -Dserver.port=$PORT -jar target/*.war
